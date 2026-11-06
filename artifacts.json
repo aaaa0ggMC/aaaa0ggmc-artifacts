@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "pelican-elephant-ride",
+    "title": "鹈鹕骑行大象 · 假想野外骑行图鉴",
+    "description": "一份关于「鹈鹕稳稳骑在亚洲象背上」这一假想名场面的图鉴：插画速写、骑乘结构、载重数据、巡航曲线与旅程日志。",
+    "tags": [
+      "趣味图鉴",
+      "动物",
+      "SVG 插画",
+      "考察报告"
+    ],
+    "date": "2026-11-06"
+  },
+  {
+    "slug": "artifact-system",
+    "title": "Artifact System · 现状与用法",
+    "description": "当前 artifact 系统的自述：发布链路、组件、加密 block、归档与复制。",
+    "tags": [
+      "system",
+      "report",
+      "encryption",
+      "vitepress"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "gallery",
+    "title": "Component Gallery",
+    "description": "常用小组件速查：Badges / StatGrid / Cards / Steps / Tabs / KeyValue / Chart。",
+    "tags": [
+      "demo",
+      "components"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "hello",
+    "title": "Hello Artifact",
+    "description": "第一个 artifact：公开摘要 + 一个加密的 Vue 区块。",
+    "tags": [
+      "demo",
+      "vue",
+      "encrypted"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "pelican-bicycle",
+    "title": "鹈鹕骑自行车",
+    "description": "一只戴不上头盔的鹈鹕，正蹬着一辆墨绿色单车穿过乡间小路——腿是真的在蹬。",
+    "tags": [
+      "art",
+      "svg",
+      "pelican"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "ul-arch",
+    "title": "Unlimited Life 整合包架构总览",
+    "description": "MC 1.12.2 双实例整合包的分层架构：morphext 核心、patch 适配层、UL 内容层、数值层与任务工具链，含模组交互全景",
+    "tags": [
+      "minecraft",
+      "modpack",
+      "architecture",
+      "1.12.2",
+      "morphext"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "visuals",
+    "title": "Diagrams & Widgets",
+    "description": "SVG、Mermaid 和沙箱 HTML 小部件示例。",
+    "tags": [
+      "demo",
+      "svg",
+      "mermaid",
+      "widget"
+    ],
+    "date": "2026-11-05"
+  },
+  {
+    "slug": "ai-network-workflow",
+    "title": "网络 AI Workflow 架构",
+    "description": "私有云 AI VM + 自托管 NetBird + 云上公网入口的三层访问架构：认证收敛到内网统一门户，未认证拿不到内容。",
+    "tags": [
+      "architecture",
+      "network",
+      "workflow"
+    ],
+    "date": "2026-11-04"
+  },
+  {
+    "slug": "pelican-elephant",
+    "title": "鹈鹕骑大象",
+    "description": "夕阳下的稀树草原，一只白鹈鹕系着红围巾，稳稳坐在大象背上的鞍毯里。",
+    "tags": [
+      "art",
+      "svg",
+      "pelican",
+      "elephant"
+    ],
+    "date": "2026-11-04"
+  }
+]
