@@ -1,0 +1,2 @@
+# generated vendor/browser bundles: minified code false-positives on secret regexes
+assets/*
